@@ -1,0 +1,12 @@
+{
+    "name": "galpa/products-customer",
+    "description": "Modulo que contiene productos disponibles de un cliente.",
+    "authors": [
+        {
+            "name": "Christian Feo",
+            "email": "christianfeob@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
